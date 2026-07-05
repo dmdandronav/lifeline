@@ -1,0 +1,31 @@
+{
+  "id": "grandson_jail",
+  "title": "Grandson in jail",
+  "description": "Classic grandparent scam: an 'officer' claims the target's grandson was arrested after a car accident and demands secret gift-card bail before the court closes.",
+  "utterances": [
+    { "speaker": "scammer", "text": "Hello, is this Margaret Alvarez? This is Officer Daniels calling from the county jail.", "delay_ms": 1400 },
+    { "speaker": "victim", "text": "Oh my — yes, this is Margaret. Is something wrong?", "delay_ms": 1100 },
+    { "speaker": "scammer", "text": "I'm afraid your grandson Kyle was in a car accident last night. He's in custody and he's very scared.", "delay_ms": 1800 },
+    { "speaker": "victim", "text": "Kyle? In an accident? Is he hurt?", "delay_ms": 1000 },
+    { "speaker": "scammer", "text": "He broke his nose, but he's okay. He begged us to call you — you're his only hope of getting out tonight.", "delay_ms": 1700 },
+    { "speaker": "scammer", "text": "The bail is set at $8,500 and it has to be posted before the court closes at five.", "delay_ms": 1600 },
+    { "speaker": "victim", "text": "Eight thousand five hundred? I... I don't keep that kind of money around.", "delay_ms": 1300 },
+    { "speaker": "scammer", "text": "Listen carefully. There's a gag order on this case, so don't tell anyone — not your daughter, not your bank.", "delay_ms": 1900 },
+    { "speaker": "scammer", "text": "The fastest way is gift cards. Go to the store and buy Google Play cards, right now, while we're on the phone.", "delay_ms": 1800 },
+    { "speaker": "victim", "text": "Gift cards? For bail? That seems strange...", "delay_ms": 1200 },
+    { "speaker": "scammer", "text": "It's the court's new electronic processing fee system. Do not hang up, and if the cashier asks, say they're a birthday present.", "delay_ms": 2000 },
+    { "speaker": "scammer", "text": "Once you have them, scratch off the back and read me the codes immediately. We're running out of time, Margaret.", "delay_ms": 1800 },
+    { "speaker": "victim", "text": "I just... give me a moment, this is all so fast.", "delay_ms": 1100 },
+    { "speaker": "scammer", "text": "There is no moment. Kyle is sitting in a cell right now, crying. Imagine how scared he is. Act fast or he stays the weekend.", "delay_ms": 1900 }
+  ],
+  "post_handoff": [
+    { "speaker": "scammer", "text": "Ma'am? Are you still there? Do you have the cards yet?", "delay_ms": 1500 },
+    { "speaker": "scammer", "text": "Margaret, I need you to read me the numbers on the back of the cards right now.", "delay_ms": 1600 },
+    { "speaker": "scammer", "text": "No, not your grocery list — the gift card codes! The court closes in twenty minutes!", "delay_ms": 1700 },
+    { "speaker": "scammer", "text": "Which store are you at? Just tell me which store, that's all.", "delay_ms": 1500 },
+    { "speaker": "scammer", "text": "Ma'am, please, focus. Did you buy the Google Play cards or not?", "delay_ms": 1600 },
+    { "speaker": "scammer", "text": "You know what — is there anyone else there? Someone younger, maybe?", "delay_ms": 1500 },
+    { "speaker": "scammer", "text": "This is a federal matter! You are obstructing an official bail process!", "delay_ms": 1600 },
+    { "speaker": "scammer", "text": "Forget it. Forget the whole thing. Unbelievable.", "delay_ms": 1400 }
+  ]
+}
